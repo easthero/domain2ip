@@ -1,4 +1,7 @@
-# 原作者 https://www.cnblogs.com/StudyCat/ 做了细微修改
+# 根据域名查询IP地址信息工具
+
+# 原作者 
+ - studycat https://www.cnblogs.com/StudyCat/ 在原作者基础上做了细微修改
 
 # 依赖
  - python3
